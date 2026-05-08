@@ -32,5 +32,5 @@ For senior engineering or AI infrastructure conversations: [surajit.das.03211@gm
 ### Elsewhere
 
 - Medium: [@surajit.das0320](https://medium.com/@surajit.das0320)
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/surajit-das-2a704165/)
+- LinkedIn: [https://www.linkedin.com/in/surajit-das-2a704165/](https://www.linkedin.com/in/surajit-das-2a704165/)
 - Stack Overflow: [stackoverflow.com/users/14438609](https://stackoverflow.com/users/14438609/sdrj)
